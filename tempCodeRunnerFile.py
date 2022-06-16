@@ -1,1 +1,1 @@
-                        print(enumerate(data))
+    # cv.imshow('frame', frame)
